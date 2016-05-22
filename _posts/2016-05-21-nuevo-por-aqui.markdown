@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nuevo por aquí
+date: 2016-05-23
 category: blog
 tag:
 - jekyll
