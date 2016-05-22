@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Nuevo por aquí
-date: 2016-05-23
 category: blog
-tags:[presentación, about, sobre mi]
+tag:
+- jekyll
 excerpt: Me presento, soy Jesús Camacho y he estudiado Desarrollo de Aplicaciones Web y Administración de Sistemas y Redes. Si me hicieras escoger entre una de estas dos profesiones&#58; No podría.
+
 ---
 
 # ¡Hola mundo!
 
-Me presento, soy Jesús Camacho y he estudiado **Desarrollo de Aplicaciones Web** y **Administración de Sistemas y Redes**. Si me hicieras escoger entre una de estas dos profesiones: **no podría**. Son mis dos pasiones y me encantan, ja sea crear una aplicación web, maquetarla, programar, front end o back end... hasta configurar un servidor web u otra tipo de infraestructura.
+![Smithsonian Image](http://cdn2.hubspot.net/hubfs/685689/learningtoprogram.jpg)
+{: .image-center}
 
-feature: http://cdn2.hubspot.net/hubfs/685689/learningtoprogram.jpg
-comments: true
+Me presento, soy Jesús Camacho y he estudiado **Desarrollo de Aplicaciones Web** y **Administración de Sistemas y Redes**. Si me hicieras escoger entre una de estas dos profesiones: **no podría**. Son mis dos pasiones y me encantan, ja sea crear una aplicación web, maquetarla, programar, front end o back end... hasta configurar un servidor web u otra tipo de infraestructura.
