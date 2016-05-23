@@ -2,7 +2,7 @@
 layout: post
 title: "Alpheratz Theme"
 date:   2016-05-23
-excerpt: "Un tema para Wordpress, moderno, minimalista, flat."
+excerpt: "Un tema para Wordpress, moderno, minimalista y flat."
 project: true
 feature: assets/img/alpheratztheme/alpheratz-theme-preview.jpg
 
@@ -70,8 +70,8 @@ Alpheratz es una plantilla basada en Bootstrap, por lo que le hace ser una plant
 
 
 <figure class="half">    
-    <a href="../assets/img/librodetrucos/page12.png"><img src="../assets/img/alpheratztheme/headerPost.png"></a>
-    <a href="../assets/img/librodetrucos/page34.png"><img src="../assets/img/alpheratztheme/footerPost.png"></a>
+    <a href="../assets/img/alpheratztheme/headerPost.png"><img src="../assets/img/alpheratztheme/headerPost.png"></a>
+    <a href="../assets/img/alpheratztheme/footerPost.png"><img src="../assets/img/alpheratztheme/footerPost.png"></a>
 </figure>
 
 ![Menú](../assets/img/alpheratztheme/footer.png)
