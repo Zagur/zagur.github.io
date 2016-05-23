@@ -3,19 +3,22 @@
 		<ul class="dl-menu">
 			<li><a href="{{ site.url }}/">Home</a></li>
 			<li>
-				<a href="#">About</a>
+				<a href="#">Sobre mi</a>
 				<ul class="dl-submenu">
 					<li>
 						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Saber más</span></a></li>
 					{% if site.email %}<li>
-                        <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
+                        <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Correo</a>
                     </li>{% endif %}
                     {% if site.twitter %}<li>
                         <a href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>
+                    </li>{% endif %}
+					{% if site.twitter %}<li>
+                        <a href="http://quitter.se/{{ site.gnusocial }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i> GNU Social</a>
                     </li>{% endif %}
                     {% if site.facebook %}<li>
                         <a href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
@@ -80,13 +83,16 @@
                     {% if site.hackernews %}<li>
                         <a href="https://news.ycombinator.com/user?id={{ site.hackernews }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-hacker-news"></i> Hacker News</a>
                     </li>{% endif %}
+					{% if site.wordpress %}<li>
+                        <a href="http://{{ site.wordpress }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-wordpress" aria-hidden="true"></i> Wordpress</a>
+                    </li>{% endif %}
 				</ul><!-- /.dl-submenu -->
 			</li>
 			<li>
-				<a href="#">Posts</a>
+				<a href="#">Entradas</a>
 				<ul class="dl-submenu">
-					<li><a href="{{ site.url }}/posts/">All Posts</a></li>
-					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
+					<li><a href="{{ site.url }}/posts/">Todas las entradas</a></li>
+					<li><a href="{{ site.url }}/tags/">Todas las etiquetas</a></li>
 				</ul>
 			</li>
 			{% for link in site.data.navigation %}

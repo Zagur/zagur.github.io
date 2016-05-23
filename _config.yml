@@ -39,6 +39,7 @@ disqus_shortname:   zagur
 #bing-verify:
 email:              zagurblog@gmail.com
 twitter:            zagurito
+gnusocial:          zagur
 #facebook:           username
 github:             Zagur
 gitlab:             zagur
@@ -60,6 +61,7 @@ instagram:          zagurito
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+wordpress:          www.portallinux.es
 
 # Gems
 gems:
