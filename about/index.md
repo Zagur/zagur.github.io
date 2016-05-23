@@ -23,7 +23,7 @@ date: 2016-03-21
 | **OTROS**                 |  | Docker (virtualización de servicios)   |
 {: rules="groups"}
 
-## Formación Academica
+## Formación Académica
 
 |  |  | Formación Academica |
 |--------:|:--:|:----------|
