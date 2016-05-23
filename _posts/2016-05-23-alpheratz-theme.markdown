@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alpheratz Theme"
-date:   2016-04-06
+date:   2016-05-23
 excerpt: "Un tema para Wordpress, moderno, minimalista, flat."
 project: true
 feature: assets/img/alpheratztheme/alpheratz-theme-preview.jpg
