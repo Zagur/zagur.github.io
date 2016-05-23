@@ -1,5 +1,5 @@
 ---
 layout: project
-title: All Projects
+title: Todos los proyectos
 excerpt: "A List of Projects"
 ---
