@@ -25,15 +25,15 @@ date: 2016-03-21
 
 ## Formación Académica
 
-|  |  | Formación Academica |
+|  |  | Formación Académica |
 |--------:|:--:|:----------|
-| Septiembre 2015 - Actualmente |  | CFGS - DESARROLLO DE APLICACIONES WEB
+| Septiembre 2015 - Actualmente |  | **CFGS - DESARROLLO DE APLICACIONES WEB**
 |  |  | IES Carles Vallbona (Granollers)
-| Septiembre 2013 - Junio 2015 |  | CFGS - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS Y REDES
+| Septiembre 2013 - Junio 2015 |  | **CFGS - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS Y REDES**
 |  |  | IES Carles Vallbona (Granollers)
-| Septiembre 2011 - Junio 2013 |  | CFGS - MICROSISTEMAS INFORMATICOS Y REDES
+| Septiembre 2011 - Junio 2013 |  | **CFGS - MICROSISTEMAS INFORMATICOS Y REDES**
 |  |  | IES Thos i Codina (Mataró)
-| Septiembre 2006 - Junio 2011 |  | BACHILLERATO - CIENTIFICOTECNICO
+| Septiembre 2006 - Junio 2011 |  | **BACHILLERATO - CIENTIFICOTECNICO**
 |  |  | IES Alexandre Satorras (Mataró)
 
 
