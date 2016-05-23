@@ -6,13 +6,52 @@
 		<link>http://zagur.github.io</link>
 		
 			<item>
-				<title>Documentacion sobre</title>
-				<description>&lt;h1 id=&quot;hola-mundo&quot;&gt;¡Hola mundo!&lt;/h1&gt;
+				<title>Libro de Trucos</title>
+				<description>&lt;h1 id=&quot;sobre-libro-de-trucos&quot;&gt;Sobre Libro De Trucos&lt;/h1&gt;
 
-&lt;p&gt;Me presento, soy Jesús Camacho y he estudiado &lt;strong&gt;Desarrollo de Aplicaciones Web&lt;/strong&gt; y &lt;strong&gt;Administración de Sistemas y Redes&lt;/strong&gt;. Si me hicieras escoger entre una de estas dos profesiones: &lt;strong&gt;no podría&lt;/strong&gt;. Son mis dos pasiones y me encantan, ja sea crear una aplicación web, maquetarla, programar, front end o back end… hasta configurar un servidor web u otra tipo de infraestructura.&lt;/p&gt;
+&lt;p&gt;Los famosos cubos, que todos hemos montado alguna vez, había muy poco espacio y acabamos con comandos muy simples y siempre nos faltaba alguno para hacer algo y teníamos que buscar por Internet en ayuda de Saint Google. Así que crear un libro de 6 páginas permite tener más comandos y comentarios necesarios para entender algunos comandos. Realmente hay tanto espacio que me he permetido el lujo de añadir un mini tutorial de como recuperar en grup en 4 sencillos pasos! Ya que todo el mundo le ha pasado, si no entiendes de tema, casi siempre rompes el grub sin darte cuenta (y yo soy el primero… por suerte se recuperarlo facilmente). Además, un problema que yo veía en los cubos, es que no sabía donde meterlos y/o guardarlos y se me acababan achafando un poco o despegando (a faltar de cartulina algunos los hacía con doble papel), pero estos problemas ya no existen con &lt;a href=&quot;http://www.portallinux.es/librodetrucos&quot;&gt;&lt;strong&gt;Libro de Trucos&lt;/strong&gt;&lt;/a&gt; ya que es un librito muy pequeño de 10cm de ancho y 14cm de alto. Además esto permite que se pueda guardar y/o transportar fácilmente en un bolsillo, en una carpeta, entre las hojas de un libro, en el cajón, en el maletero…&lt;/p&gt;
+
+&lt;h2 id=&quot;imgenes&quot;&gt;Imágenes&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/librodetrucos/librotrucos3.png&quot; alt=&quot;Libro De Trucos&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;    
+    &lt;a href=&quot;../assets/img/librodetrucos/page12.png&quot;&gt;&lt;img src=&quot;../assets/img/librodetrucos/page12.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;../assets/img/librodetrucos/page34.png&quot;&gt;&lt;img src=&quot;../assets/img/librodetrucos/page34.png&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Páginas 1, 2, 3 y 4&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;a href=&quot;../assets/img/librodetrucos/page56.png&quot;&gt;&lt;img src=&quot;../assets/img/librodetrucos/page56.png&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../assets/img/librodetrucos/page07.png&quot;&gt;&lt;img src=&quot;../assets/img/librodetrucos/page07.png&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Páginas 5 y 6, contraportada y portada&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/librodetrucos/librotrucosfilter.jpg&quot; alt=&quot;Moon Twitter Card&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;versiones-disponibles&quot;&gt;Versiones disponibles&lt;/h2&gt;
+
+&lt;p&gt;Hasta ahora había pensado hacer 3 versiones (Debian, Red Hat y OpenSUSE) pero para un futuro he pensado hacer “Libros de Trucos” de otras distribuciones importantes (SlackWare, ArchLinux, Ubuntu (aunque el libro de Debian ya vale..); incluso de algunos programas como VIM, Emacs…). Básicamente las diferencias entre libros de Debian/RedHat/OpenSUSE son los comandos de instalación de paquetes ya que unos usan paquetería .DEB y otros .RPM o unos usan apt-get/aptitude y otros yum/zypper/yast.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-montarlo&quot;&gt;Como montarlo&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Vjf1tv1W62o&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h2 id=&quot;descargar&quot;&gt;Descargar&lt;/h2&gt;
+
+&lt;center&gt;&lt;a href=&quot;http://www.portallinux.es/wp-content/descargas/LibroDeTrucos/PDF/LibroDeTrucos_DEBIAN.pdf&quot; class=&quot;btn btn-success&quot;&gt;Descargar Libro Debian&lt;/a&gt;
+&lt;a href=&quot;http://www.portallinux.es/wp-content/descargas/LibroDeTrucos/PDF/LibroDeTrucos_UBUNTU.pdf&quot; class=&quot;btn btn-success&quot;&gt;Descargar Libro Red Hat&lt;/a&gt;
+&lt;a href=&quot;http://www.portallinux.es/wp-content/descargas/LibroDeTrucos/PDF/LibroDeTrucos_OPENSUSE.pdf&quot; class=&quot;btn btn-success&quot;&gt;Descargar Libro OpenSUSE&lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;a href=&quot;http://portallinux.es/librodetrucos/&quot; class=&quot;btn btn-info&quot;&gt;Descargar otros&lt;/a&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Libro de Trucos por Jesús Camacho se distribuye bajo una Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
-				<published>2016-05-22 00:00:00 +0200</published>
-				<link>http://zagur.github.io/test-documentation/</link>
+				<published>2016-05-23 00:00:00 +0200</published>
+				<link>http://zagur.github.io/libro-de-trucos/</link>
 			</item>
 		
 			<item>
@@ -23,31 +62,6 @@
 </description>
 				<published>2016-05-21 00:00:00 +0200</published>
 				<link>http://zagur.github.io/nuevo-por-aqui/</link>
-			</item>
-		
-			<item>
-				<title>Moon Jekyll Theme</title>
-				<description>&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&quot; alt=&quot;Moon Homepage&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;b&gt;Moon&lt;/b&gt; is a minimal, one column jekyll theme.&lt;/center&gt;
-
-&lt;p&gt;I’m not a developer or designer. And I don’t add footer to show who did this theme. If you like this theme or using it, please give a &lt;strong&gt;star&lt;/strong&gt; for motivation, It makes me happy.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=TaylanTatli&amp;amp;repo=Moon&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/TaylanTatli/Moon/fork&quot;&gt;Moon repo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
-  &lt;li&gt;Remove sample posts from &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder and add yours.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;index.md&lt;/code&gt; file in &lt;code class=&quot;highlighter-rouge&quot;&gt;about&lt;/code&gt; folder.&lt;/li&gt;
-  &lt;li&gt;Change repo name to &lt;code class=&quot;highlighter-rouge&quot;&gt;YourUserName.github.io&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s all.&lt;/p&gt;
-</description>
-				<published>2016-04-06 00:00:00 +0200</published>
-				<link>http://zagur.github.io/projecte/</link>
 			</item>
 		
 	</channel>
