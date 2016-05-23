@@ -1,4 +1,6 @@
 # Site navigation links
 
-- title: Projects
+- title: Proyectos
   url: /projects/
+- title: Documentación
+  url: /doc/
