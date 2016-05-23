@@ -7,30 +7,34 @@ date: 2016-03-21
 
 <center><b>Jesús Camacho</b> Desarrollador web y Administrador de Sistemas</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+> "Cuando era niño e iba al colegio, los profesores intentaban enseñarnos a compartir. Decían “Si traes caramelos, no te los puedes comer tú sólo, tienes que compartir con los demás niños.” pero ahora la administración dice que los profesores deberían enseñarle a los niños a decir “Sí” a la autorización. Si traes Software al colegio “Oh no! ¡No lo compartas! Compartir significa que eres un pirata” Compartir significa que te meterán en la cárcel. Esa no es la forma en la que debería de funcionar la sociedad." – Richard M. Stallman
 
-## Preview
+## Conocimientos
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+|  |  | Mis conocimientos |
+|--------:|:--:|:--------|
+| **SISTEMAS OPERATIVOS**   |  | GNU/Linux (Distribuciones basadas en Debian, Red Hat, Slackware), Microsoft Windows (Versiones 7, 8, 81, i 10), FreeBSD (pfSense) y Android   |
+| **PROGRAMACIÓN**          |  | Java (Nivel medio), Bash, Python   |
+| **SERVICIOS INFORMÁTICOS**|  | DNS, DHCP, Servidor Web (Apache), Servidor de Correo, FTP, SSH, PxE, Servidores Multimedia   |
+| **VIRTUALIZACIÓN**        |  | VirtualBox, VMware, Proxmox VE   |
+| **REDES**                 |  | HTML5, CSS3 (Bootstrap), PHP (Nivel básico), SQL, JavaScript (Nivel medio) y SEO   |
+| **APLICACIONES WEB**      |  | WordPress, Drupal, Joomla!, MediaWiki, moodle, GLPI, Jekyll...   |
+| **DISSEÑO**               |  | Inkscape y GIMP   |
+| **OTROS**                 |  | Docker (virtualización de servicios)   |
+{: rules="groups"}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Formación Academica
 
-## Getting Started
+|  |  | Formación Academica |
+|--------:|:--:|:----------|
+| Septiembre 2015 - Actualmente |  | CFGS - DESARROLLO DE APLICACIONES WEB
+|  |  | IES Carles Vallbona (Granollers)
+| Septiembre 2013 - Junio 2015 |  | CFGS - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS Y REDES
+|  |  | IES Carles Vallbona (Granollers)
+| Septiembre 2011 - Junio 2013 |  | CFGS - MICROSISTEMAS INFORMATICOS Y REDES
+|  |  | IES Thos i Codina (Mataró)
+| Septiembre 2006 - Junio 2011 |  | BACHILLERATO - CIENTIFICOTECNICO
+|  |  | IES Alexandre Satorras (Mataró)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
 
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Visita mis proyectos](http://zagur.github.io/projects){: .btn}

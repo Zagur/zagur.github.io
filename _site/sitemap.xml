@@ -12,9 +12,6 @@
 <loc>http://zagur.github.io/404</loc>
 </url>
 <url>
-<loc>http://zagur.github.io/doc/doc/</loc>
-</url>
-<url>
 <loc>http://zagur.github.io/tags/</loc>
 </url>
 <url>
@@ -22,6 +19,9 @@
 </url>
 <url>
 <loc>http://zagur.github.io/posts/</loc>
+</url>
+<url>
+<loc>http://zagur.github.io/doc/</loc>
 </url>
 <url>
 <loc>http://zagur.github.io/about/</loc>
