@@ -64,5 +64,130 @@
 				<link>http://zagur.github.io/nuevo-por-aqui/</link>
 			</item>
 		
+			<item>
+				<title>Alpheratz Theme</title>
+				<description>&lt;h1 id=&quot;alpheratz-theme-para-wordpress&quot;&gt;Alpheratz Theme para Wordpress&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/alpheratztheme/alpheratz-theme-preview.jpg&quot; alt=&quot;Alpherat Theme&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a href=&quot;http://www.portallinux.es&quot; class=&quot;btn btn-success&quot;&gt;&lt;span class=&quot;fa fa-eye&quot;&gt; &lt;/span&gt; Demo&lt;/a&gt;
+&lt;a href=&quot;https://gitlab.com/zagur/AlpheratzTheme/repository/archive.zip?ref=master&quot; class=&quot;btn btn-danger&quot;&gt;&lt;span class=&quot;fa fa-download&quot;&gt; &lt;/span&gt; Descargar&lt;/a&gt;
+&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;&lt;span class=&quot;fa fa-gears&quot;&gt; &lt;/span&gt; Documentación&lt;/a&gt;
+&lt;a href=&quot;https://gitlab.com/zagur/AlpheratzTheme&quot; class=&quot;btn btn-primary&quot;&gt;&lt;span class=&quot;fa fa-github&quot;&gt; &lt;/span&gt; GitLab&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Alpheratz es una plantilla basada en Bootstrap, por lo que le hace ser una plantilla 100% &lt;em&gt;responsive&lt;/em&gt; y &lt;em&gt;adaptative&lt;/em&gt;. Se puede visualizar tanto en ordenador, como en tableta o smartphone. Actualmente está en una base beta de pruebas. Es una plantilla que utilizo en mi blog principal sobre GNU/Linux, Software Libre y otros temas de &lt;em&gt;SysAdmin&lt;/em&gt;.&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Última versión&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Fecha de publicación&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Registro de cambios&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Alpheratz Theme 07.5.1a&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3 de mayo 2016&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://gitlab.com/zagur/AlpheratzTheme/blob/master/CHANGELOG.txt&quot;&gt;ChangeLog&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;caractersticas&quot;&gt;Características&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sencillo tema con &lt;em&gt;Flat design&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Diseño adaptativo (&lt;em&gt;responsive design&lt;/em&gt;) gracias a Bootstrap Framework.&lt;/li&gt;
+  &lt;li&gt;Compatible con los navegadores más usados (Firefox, Chrome/Chromium, Opera, Safari…).&lt;/li&gt;
+  &lt;li&gt;Barra lateral (excepto en home). Se puede configurar en la derecha o izquierda.&lt;/li&gt;
+  &lt;li&gt;Footer principal (donde se pueden añadir widgets) y footer secundario (donde se pueden añadir redes sociales)&lt;/li&gt;
+  &lt;li&gt;Optiones de tema (&lt;a href=&quot;http://zagur.github.io&quot;&gt;Nunki Engine&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;SEO: Amigable con los búscadores.&lt;/li&gt;
+  &lt;li&gt;Sin páginas, el contenido carga solo.&lt;/li&gt;
+  &lt;li&gt;Diferentes diseños a escoger (Aqua, Azul, Verde, Naranja, Lila, Rojo y Amarillo).&lt;/li&gt;
+  &lt;li&gt;Menú con doble columna.&lt;/li&gt;
+  &lt;li&gt;Compartir contenido con redes sociales.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tecnologas-usadas&quot;&gt;Tecnologías usadas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bootstrap Framework.&lt;/li&gt;
+  &lt;li&gt;Theme Options Framework.&lt;/li&gt;
+  &lt;li&gt;Font Awesome Icons.&lt;/li&gt;
+  &lt;li&gt;Infinite Scroll.&lt;/li&gt;
+  &lt;li&gt;Google Fonts.&lt;/li&gt;
+  &lt;li&gt;Nunki Engine.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;paleta-de-colores&quot;&gt;Paleta de colores&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/alpheratztheme/paleta.png&quot; alt=&quot;Paleta de colores&quot; /&gt;&lt;/p&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;AZUL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;NEGRO&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;GRIS OSCURO&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;GRIS CLARO&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;BLANCO&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;#1976D2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;#151515&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;#212121&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;#A0A0A0&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;#F0F0F0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;imgenes&quot;&gt;Imágenes&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/alpheratztheme/menu.png&quot; alt=&quot;Menú&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;    
+    &lt;a href=&quot;../assets/img/librodetrucos/page12.png&quot;&gt;&lt;img src=&quot;../assets/img/alpheratztheme/headerPost.png&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;../assets/img/librodetrucos/page34.png&quot;&gt;&lt;img src=&quot;../assets/img/alpheratztheme/footerPost.png&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/alpheratztheme/footer.png&quot; alt=&quot;Menú&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;plugins-recomendables&quot;&gt;Plugins recomendables&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Crayon Syntax Highlighter&lt;/li&gt;
+  &lt;li&gt;Easy Bootstrap Shortcode&lt;/li&gt;
+  &lt;li&gt;Stylish Popular Posts&lt;/li&gt;
+  &lt;li&gt;Yoast SEO&lt;/li&gt;
+  &lt;li&gt;NextScripts: Social Networks Auto-Poster&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia-de-la-plantilla&quot;&gt;Licencia de la plantilla&lt;/h2&gt;
+
+&lt;p&gt;Esta plantilla está bajo la licencia GPL 3.0, por lo tanto eres libre de usar la plantilla con cualquier propósito, de estudiar la plantilla y modificarla, de distribuir copias de la plantilla y por último, de mejorar la plantilla y hacer públicas esas mejoras para que la comunidad se beneficie y por supuesto bajo la misma licencia que la del autor principal.&lt;/p&gt;
+
+&lt;h2 id=&quot;donaciones&quot;&gt;Donaciones&lt;/h2&gt;
+
+&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;encrypted&quot; value=&quot;-----BEGIN PKCS7-----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-----END PKCS7-----
+&quot; /&gt;
+&lt;input type=&quot;image&quot; src=&quot;https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donate_LG.gif&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal. La forma rápida y segura de pagar en Internet.&quot; /&gt;
+&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/es_ES/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/alpheratztheme/smartphone.png&quot; alt=&quot;Smartphone&quot; /&gt;&lt;/p&gt;
+</description>
+				<published>2016-04-06 00:00:00 +0200</published>
+				<link>http://zagur.github.io/alpheratz-theme/</link>
+			</item>
+		
 	</channel>
 </rss>
