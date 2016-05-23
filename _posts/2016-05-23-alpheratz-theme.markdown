@@ -10,7 +10,7 @@ tag:
 - Wordpress
 - Theme
 - Flat
-comments: true
+comments: false
 ---
 
 # Alpheratz Theme para Wordpress
