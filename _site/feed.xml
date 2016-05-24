@@ -6,8 +6,54 @@
 		<link>http://zagur.github.io</link>
 		
 			<item>
-				<title>Alpheratz Theme</title>
+				<title>Transistor, bare bones radio app [CATALÀ]</title>
 				<description>&lt;h1 id=&quot;transistor&quot;&gt;Transistor&lt;/h1&gt;
+
+&lt;p&gt;He realizado la traducción a mi lengua materna (catalán) de esta aplicación para Android que permite escuchar emisoras de radio por Internet. En la actualidad Transistor soporta MP· y OGG y las emisoras se tienen que añadir manualmente.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Català&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th&gt;Castellano&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th&gt;English&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Transistor&lt;/strong&gt; és una aplicació per escoltar programes de ràdio a través d’Internet. L’aplicació emmagatzema les emissores en fitxers dins del emmagatzematge extern. Pots cercar aquests fitxers M3U dins de &lt;strong&gt;&lt;em&gt;/Android/data/org.y20k.transistor/Collection&lt;/em&gt;&lt;/strong&gt;. En l’actualitat pot reproduir fitxers en MP3 i OGG.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Transistor&lt;/strong&gt; es una aplicación simple para escuchar programas de radio por Internet. La aplicación almacena las estaciones como archivos en el almacenamiento externo de tu dispositivo. Busca los archivos del tipo m3u en &lt;strong&gt;&lt;em&gt;/Android/data/org.y20k.transistor/Collection&lt;/em&gt;&lt;/strong&gt;. Actualmente soporta streams codificados en MP3 y OGG.&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Transistor&lt;/strong&gt; is a bare bones app for listening to radio programs over the internet. The app stores stations as files on your device’s external storage. Look for files of type m3u within &lt;strong&gt;&lt;em&gt;/Android/data/org.y20k.transistor/Collection&lt;/em&gt;&lt;/strong&gt;. It currently understands streams encoded in MP3 and OGG.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;informacin&quot;&gt;Información&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Web: &lt;a href=&quot;http://www.y20k.org/transistor/&quot;&gt;Web Oficial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Registro de problemas: &lt;a href=&quot;https://github.com/y20k/transistor/issues&quot;&gt;Problemas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Código Fuente: &lt;a href=&quot;https://github.com/y20k/transistor&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Licencia: &lt;a href=&quot;https://www.gnu.org/licenses/license-list.html#X11License&quot;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;imgenes&quot;&gt;Imágenes&lt;/h1&gt;
+
+&lt;figure class=&quot;half&quot;&gt;    
+    &lt;a href=&quot;https://lh3.googleusercontent.com/1C_zqJv0u27kT4XvlWqz1MKD9cKECoHIR65aDDVmFwVZDl0AytcLz8ra7IpV2jFz4Uo=h900&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/1C_zqJv0u27kT4XvlWqz1MKD9cKECoHIR65aDDVmFwVZDl0AytcLz8ra7IpV2jFz4Uo=h900&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://lh3.googleusercontent.com/aIzT-ZnXnbPJzaJL2Ues9_Cjzw1uTSaZpIPhMh7ssT1nf7rE4fKsackIFZOeYjNu6Q=h900&quot;&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/aIzT-ZnXnbPJzaJL2Ues9_Cjzw1uTSaZpIPhMh7ssT1nf7rE4fKsackIFZOeYjNu6Q=h900&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;descargar&quot;&gt;Descargar&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;a href=&quot;https://f-droid.org/repository/browse/?fdid=org.y20k.transistor&quot; class=&quot;btn btn-danger&quot;&gt;&lt;span class=&quot;fa fa-download&quot;&gt; &lt;/span&gt; Descargar [F-Droid]&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.y20k.transistor&quot; class=&quot;btn btn-danger&quot;&gt;&lt;span class=&quot;fa fa-download&quot;&gt; &lt;/span&gt; Descargar [Google Play]&lt;/a&gt;
+&lt;/center&gt;
 </description>
 				<published>2016-05-23 00:00:00 +0200</published>
 				<link>http://zagur.github.io/transistor-ca/</link>
