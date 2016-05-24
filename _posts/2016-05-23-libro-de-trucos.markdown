@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Libro de Trucos"
-date:   2016-05-23
+date: 2016-05-23
 excerpt: "Libro de Trucos es similar a los famosos cubos de trucos pero con un formato más agradable para el usuario ya que se puede guardar en el bolsillo para consultar siempre los comandos."
 project: true
 feature: http://portallinux.es/librodetrucos/OldBackup/images/svg/portada.svg

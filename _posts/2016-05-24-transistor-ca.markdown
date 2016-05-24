@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transistor, bare bones radio app [CATALÀ]"
-date:   2016-05-23
+date: 2016-05-23
 excerpt: "Transistor, una app para Android que permite escuchar radios por Internet (Streaming)."
 trans: true
 feature: http://www.y20k.org/transistor/img/icon.png
