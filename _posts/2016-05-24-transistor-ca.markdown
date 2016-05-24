@@ -1,26 +1,14 @@
 ---
-layout: trans
-title: Transistor, bare bones radio app [Català]
-category: translation
+layout: post
+title: "Alpheratz Theme"
+date:   2016-05-23
+excerpt: "Un tema para Wordpress, moderno, minimalista y flat."
 trans: true
+feature: assets/img/alpheratztheme/alpheratz-theme-preview.jpg
 tag:
-- Transistor
-- Radio app
-- Android
-- Open Source
-excerpt: Transistor es una aplicación para Android que permite escuchar radios del mundo vía Internet
-feature: http://cdn2.hubspot.net/hubfs/685689/learningtoprogram.jpg
+- Wordpress
+- Theme
+- Flat
 ---
 
 # Transistor
-
-| Català | Castellano | English  |
-| ------------- | ------------- | -----|
-|  |  | Transistor is a bare bones app for listening to radio programs over the internet. The app stores stations as files on your device's external storage. It currently understands streams embedded within m3u and pls links. |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |

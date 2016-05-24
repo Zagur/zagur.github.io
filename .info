@@ -18,7 +18,7 @@ comments: true
 ## DOC
 
 ---
-layout: doc
+layout: post
 title: Documentacion sobre
 category: doc
 doc: true
@@ -32,7 +32,7 @@ feature: http://cdn2.hubspot.net/hubfs/685689/learningtoprogram.jpg
 ## TRANSLA
 
 ---
-layout: trans
+layout: post
 title: Traduccion sobre
 category: trans
 trans: true
