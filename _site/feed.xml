@@ -17,11 +17,312 @@
 
 &lt;h1 id=&quot;caractersticas--caracteristiques--features&quot;&gt;Características / Caracteristiques / Features&lt;/h1&gt;
 
+&lt;p&gt;&lt;strong&gt;[ES]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Configurar encabezado.&lt;/li&gt;
+  &lt;li&gt;Activa/Desactiva diferentes servicios (Subir arriba, Lo más visto, Compartir redes sociales…).&lt;/li&gt;
+  &lt;li&gt;Configurar &lt;strong&gt;&lt;em&gt;Infinite Scroll&lt;/em&gt;&lt;/strong&gt; de manera sencilla.&lt;/li&gt;
+  &lt;li&gt;Posición de la barra lateral.&lt;/li&gt;
+  &lt;li&gt;7 estilos diferentes (Rojo, Verde, Amarillo, Azul, Lila, Agua y naranja)&lt;/li&gt;
+  &lt;li&gt;Configura fondo del tema.&lt;/li&gt;
+  &lt;li&gt;Añadir &lt;strong&gt;favicon&lt;/strong&gt; fácilmente.&lt;/li&gt;
+  &lt;li&gt;Configura tipografía (En desarrollo).&lt;/li&gt;
+  &lt;li&gt;Añadir licencia a tu contenido fácilmente.&lt;/li&gt;
+  &lt;li&gt;Configura el pie de página (añade tu &lt;strong&gt;copyrigth&lt;/strong&gt; y tus redes sociales).&lt;/li&gt;
+  &lt;li&gt;Añadir códigos de publicidad de Google o de Google Analytics y Piwik Analytics.&lt;/li&gt;
+  &lt;li&gt;Entre muchos otros…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;[CA]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Configurar encapçalament.&lt;/li&gt;
+  &lt;li&gt;Activa/Desactiva diferents serveis (Pujar a dalt, El més vist, Compartir xarxes socials…).&lt;/li&gt;
+  &lt;li&gt;Configurar &lt;strong&gt;&lt;em&gt;Infinite Scroll&lt;/em&gt;&lt;/strong&gt; de manera senzilla.&lt;/li&gt;
+  &lt;li&gt;Posició de la barra lateral.&lt;/li&gt;
+  &lt;li&gt;7 estils diferents (Vermell, Verd, Groc, Blau, Lila, Aigua i Taronja)&lt;/li&gt;
+  &lt;li&gt;Configurar fons del tema.&lt;/li&gt;
+  &lt;li&gt;Afegir &lt;strong&gt;favicon&lt;/strong&gt; fàcilment.&lt;/li&gt;
+  &lt;li&gt;Configura tipografia (En desenvolupament).&lt;/li&gt;
+  &lt;li&gt;Afegir llicència al teu contingut fàcilment.&lt;/li&gt;
+  &lt;li&gt;Configura el peu de pàgina (afegeix el &lt;strong&gt;copyrigth&lt;/strong&gt; i les teves xarxes socials).&lt;/li&gt;
+  &lt;li&gt;Afegir codis de publicitat de Google o de Google Analytics i Piwik Analytics.&lt;/li&gt;
+  &lt;li&gt;Entre molts d’altres…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;[EN]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set header of the page.&lt;/li&gt;
+  &lt;li&gt;Enable / Disable various services (To top, Most viewed, Social sharing …).&lt;/li&gt;
+  &lt;li&gt;Set &lt;strong&gt;&lt;em&gt;Infinite Scroll&lt;/em&gt;&lt;/strong&gt; easily.&lt;/li&gt;
+  &lt;li&gt;Position of the sidebar.&lt;/li&gt;
+  &lt;li&gt;7 different styles (Red, Green, Yellow, Blue, Purple, Water and Orange)&lt;/li&gt;
+  &lt;li&gt;Set background of the template.&lt;/li&gt;
+  &lt;li&gt;Add &lt;strong&gt;favicon&lt;/strong&gt; easily.&lt;/li&gt;
+  &lt;li&gt;Set typography (in development).&lt;/li&gt;
+  &lt;li&gt;Add license your content easily.&lt;/li&gt;
+  &lt;li&gt;Set the footer (add your &lt;strong&gt;copyrigth&lt;/strong&gt; and your social networks).&lt;/li&gt;
+  &lt;li&gt;Add advertising codes Google or Google Analytics and Piwik Analytics.&lt;/li&gt;
+  &lt;li&gt;As well as many others…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;cmo-funciona-nunki-core--com-funciona-nunki-core--how-it-works-nunki-core&quot;&gt;Cómo funciona Nunki Core / Com funciona Nunki Core / How it works Nunki Core&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;[ES]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nunki Core&lt;/strong&gt; está basado en &lt;a href=&quot;https://github.com/devinsays/options-framework-plugin&quot;&gt;&lt;strong&gt;Options Framework&lt;/strong&gt;&lt;/a&gt; y su funcionamiento es muy similar. A diferencia de &lt;strong&gt;Options Framework&lt;/strong&gt;, &lt;strong&gt;Nunki Core&lt;/strong&gt; tiene integrado una serie de funciones que permiten utilizarlas dentro de nuestro tema.&lt;/p&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;nc_NameFunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;?&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;[CA]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nunki Core&lt;/strong&gt; està basat en &lt;a href=&quot;https://github.com/devinsays/options-framework-plugin&quot;&gt;&lt;strong&gt;Options Framework&lt;/strong&gt;&lt;/a&gt; i el seu funcionament és molt similar. A diferència de &lt;strong&gt;Options Framework&lt;/strong&gt;, &lt;strong&gt;Nunki Core&lt;/strong&gt; té integrat una sèrie de funcions que permeten utilitzar-les dins del nostre tema.&lt;/p&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;nc_NameFunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;?&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;[EN]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nunki Core&lt;/strong&gt; is based on &lt;a href=&quot;https://github.com/devinsays/options-framework-plugin&quot;&gt;&lt;strong&gt;Options Framework&lt;/strong&gt;&lt;/a&gt; and it’s operation is very similar. Unlike &lt;strong&gt;Framework Options&lt;/strong&gt; &lt;strong&gt;Core Nunki&lt;/strong&gt; has integrated a number of features to use within our theme.&lt;/p&gt;
+
 &lt;h1 id=&quot;opciones&quot;&gt;Opciones&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;(Only Spanish, sorry. Look the documentation on &lt;a href=&quot;zagur.github.io&quot;&gt;English&lt;/a&gt;)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A continuación se explica todas las configuraciones que hay actualmente en &lt;strong&gt;Nunki Core&lt;/strong&gt; de manera ordenada por secciones, como se muestra en el panel de configuración de &lt;strong&gt;Nunki Core&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;slider&quot;&gt;SLIDER&lt;/h2&gt;
+
+&lt;p&gt;Si en tu tema quieres incluír un slider, puedes hacerlo con esta función:&lt;/p&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;nc_slider&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;?&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Una vez marques la opción en el panel de &lt;strong&gt;Nunki Core&lt;/strong&gt; aparecerán otras opciones tales como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Selecciona la categoría a mostrar en el slider&lt;/li&gt;
+  &lt;li&gt;Número de entradas a mostrar&lt;/li&gt;
+  &lt;li&gt;Intervalo entre diapositivas&lt;/li&gt;
+  &lt;li&gt;Pausar Slider&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El Slider que se muestra es el slider propio de Bootstrap&lt;/p&gt;
+
+&lt;h2 id=&quot;header&quot;&gt;Header&lt;/h2&gt;
+
+&lt;p&gt;En esta pestaña podremos configurar todo lo relacionado con la cabezera de la&lt;/p&gt;
 
 &lt;h2 id=&quot;configuracin-bsica&quot;&gt;Configuración bàsica&lt;/h2&gt;
 
+&lt;p&gt;En este apartado podremos configurar&lt;/p&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar aviso cookies - &lt;i&gt;nc_cookiesMessage()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Si se activa esta función aparecerá un triángulo en la parte inferior derecha avisando al visitante de que la web utiliza cookies propias para mejorar los servicios.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_cookiesMessage() {
+    $stateCheckboxCookies = of_get_option(&#39;cookies&#39;);
+    if ($stateCheckboxCookies == 1) {
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;cookies&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;ondblclick=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;cerrarCookie(this);&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;cookie&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;tabindex=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;glyphicon glyphicon-cog&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-container=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;body&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-toggle=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;popover&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-trigger=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;focus&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-placement=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;left&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-content=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Utilizamos cookies propias y de terceros para mejorar nuestros servicios. Si continúa navegando, consideramos que acepta su uso. Doble clic sobre el triángulo rojo para cerrar.&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&#39;;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar Breadcrumbs - &lt;i&gt;nc_breadcrumb()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Si se activa esta función debajo del título principal de la entrada aparecerán los &lt;i&gt;Breadcrumbs&lt;/i&gt; para indicar en que zona de la web está el usuario.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_breadcrumb() {
+    $stateCheckboxBreadCrumb = of_get_option(&#39;breadcrumb&#39;);
+    if ($stateCheckboxBreadCrumb == 1) {
+        if (!is_home()) {
+            echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;glyphicon glyphicon-home&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&#39;;
+            echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&amp;gt;&lt;/span&gt; &#39;;
+            bloginfo(&#39;name&#39;);
+            echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fa fa-angle-right&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &#39;;
+            if (is_category() || is_single()) {
+                the_category(&#39;title_li=&#39;);
+                if (is_single()) {
+                    echo &#39; &lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fa fa-angle-right&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/span&amp;gt;&lt;/span&gt; &#39;;
+                    the_title();
+                }
+            } elseif (is_page()) {
+                echo the_title();
+            }
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Subir arriba&quot; - &lt;i&gt;nc_toTopPage()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Si se activa esta función en la parte inferior de la pàgina (zona footer secundario) aparecerá una flecha para subir hacía arriba. Esta opción solo aparece en entradas y páginas.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_toTopPage() {
+    $stateCheckBoxToTop = of_get_option(&#39;totop&#39;);
+    if ($stateCheckBoxToTop == 1) {
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;backtotop&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;onclick=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toTopEffect();return false&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;glyphicon glyphicon-chevron-up&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&#39;;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Infinite Scroll&quot; - &lt;i&gt;nc_infiniteScroll()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;*EN DESARROLLO*&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_infiniteScroll() {
+    // code
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Lo más visto&quot; - &lt;i&gt;nc_relatedPosts()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Añade una lista en la parte superior de la entrada relacionadas con la entrada.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_relatedPosts() {
+    $stateCheckTrendingArticles = of_get_option(&#39;relatedPost&#39;);
+    if ($stateCheckTrendingArticles == 1) {
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;trending-articles&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;&#39;;
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;&#39;;
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;firstlink&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Lo más visitado: &lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;&#39;;
+        echo popularPosts();
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&#39;;
+        echo &#39;&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&#39;;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar compartir con redes sociales - &lt;i&gt;nc_shareContent()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Añade al final de cada entrada la opción de compartir con redes sociales (Facebook, Twitter, Google+ y Email).&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_shareContent() {
+    $stateCheckShareContent = of_get_option(&#39;sharecontent&#39;);
+    if ($stateCheckShareContent == 1) {
+        get_template_part(&#39;content&#39;, &#39;share&#39;);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&quot;configuracion-avanzada&quot;&gt;Configuracion Avanzada&lt;/h2&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Posición de la barra lateral - &lt;i&gt;nc_sidebarPosition()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Permite definir la posición de la barra lateral (&lt;i&gt;sidebar&lt;/i&gt;).&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_sidebarPosition() {
+    $position = of_get_option(&#39;sidebar_position&#39;);
+    if ($position == &quot;sidebar_left&quot;) {
+        $stylePosition = &#39;style=&quot;float:right&quot;&#39;;
+        return $stylePosition;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Color del tema&lt;/dt&gt;
+    &lt;dd&gt;Permite seleccionar diferentes hojas de estilos para cambiar el color del tema (Rojo, Verde, Amarillo, Azul, Lila, Agua, Naranja). Para utilizar esto es necesario añadir el siguiente código dentro de la etiqueta &amp;lt;head&amp;gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;of_get_option&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;style&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;style.min.css&#39;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;?&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Fondo del tema - &lt;i&gt;nc_changeBkgImgOrColor()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;Esta opción permite escoger el fondo de la página web. Se puede seleccionar un color o una imagen.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_changeBkgImgOrColor() {
+    $background = of_get_option(&#39;background&#39;);
+    if ( $background ) {
+        if ( $background[&#39;image&#39;] ) {
+            $bgc = &#39; style=&quot;background:url(&#39; . $background[&#39;image&#39;] . &#39;)&quot;&#39;;
+            return $bgc;
+        } else if ( $background[&#39;color&#39;] ) {
+            $bgc = &#39; style=&quot;background:&#39; . $background[&#39;color&#39;] . &#39;&quot;&#39;;
+            return $bgc;
+        } else {
+            return null;
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Favicon&lt;/dt&gt;
+    &lt;dd&gt;Permite subir una imagen para añadir un favicon en la página web. El código muestra una URL de la imagen.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;?php&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;of_get_option&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&#39;favicon&#39;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;cp&quot;&gt;?&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Infinite Scroll&quot; - &lt;i&gt;nc_infiniteScroll()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;*EN DESARROLLO*&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_infiniteScroll() {
+    // code
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Infinite Scroll&quot; - &lt;i&gt;nc_infiniteScroll()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;*EN DESARROLLO*&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_infiniteScroll() {
+    // code
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Infinite Scroll&quot; - &lt;i&gt;nc_infiniteScroll()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;*EN DESARROLLO*&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_infiniteScroll() {
+    // code
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;dl&gt;
+    &lt;dt&gt;Activar &quot;Infinite Scroll&quot; - &lt;i&gt;nc_infiniteScroll()&lt;/i&gt;&lt;/dt&gt;
+    &lt;dd&gt;*EN DESARROLLO*&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function nc_infiniteScroll() {
+    // code
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;tipografa&quot;&gt;Tipografía&lt;/h2&gt;
 
@@ -32,6 +333,55 @@
 &lt;h2 id=&quot;publicidad&quot;&gt;Publicidad&lt;/h2&gt;
 
 &lt;h2 id=&quot;otros&quot;&gt;Otros&lt;/h2&gt;
+
+&lt;p&gt;#########&lt;/p&gt;
+
+&lt;h1 id=&quot;instalar-nunkicore-en-tu-tema--installar-nunkicore-al-teu-tema--install-nunkicore-on-your-theme&quot;&gt;Instalar NunkiCore en tu tema / Instal·lar NunkiCore al teu tema / Install NunkiCore on your Theme&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;[ES | CASTELLANO, CASTELLÀ, SPANISH]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Descargar repositorio desde GitLab&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://gitlab.com/zagur/nunki-core.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Copiar el directorio &lt;strong&gt;inc/&lt;/strong&gt; y el fichero &lt;strong&gt;options.php&lt;/strong&gt; en la raíz de tu tema.&lt;/li&gt;
+  &lt;li&gt;Añadir este trozo de código en tu &lt;strong&gt;functions.php&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// Nunki Core
+define( &#39;OPTIONS_FRAMEWORK_DIRECTORY&#39;, get_template_directory_uri() . &#39;/inc/NunkiCore/&#39; );
+require_once dirname( __FILE__ ) . &#39;/inc/NunkiCore/options-framework.php&#39;;
+require_once dirname( __FILE__ ) . &#39;/inc/NunkiCore/nunki-options.php&#39;;
+
+// Loads options.php from child or parent theme
+$optionsfile = locate_template( &#39;options.php&#39; );
+load_template( $optionsfile );
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;[CA | CATALÀ, CATALÁN, CATALAN]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[EN | ENGLISH, INGLÉS, ANGLÈS]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1) Descargar el repositorio
+2) Copiar el contenido descargado en la raíz del tema (tu_tema/inc, tu_tema/options.php)
+3) Añadir las siguientes lineas en el fichero functions.php de tu tema&lt;/p&gt;
+
+&lt;p&gt;// Theme Options
+define( ‘OPTIONS_FRAMEWORK_DIRECTORY’, get_template_directory_uri() . ‘/inc/NunkiCore/’ );
+require_once dirname( &lt;strong&gt;FILE&lt;/strong&gt; ) . ‘/inc/NunkiCore/options-framework.php’;
+require_once dirname( &lt;strong&gt;FILE&lt;/strong&gt; ) . ‘/inc/NunkiCore/nunki-options.php’;&lt;/p&gt;
+
+&lt;p&gt;// Loads options.php from child or parent theme
+$optionsfile = locate_template( ‘options.php’ );
+load_template( $optionsfile );&lt;/p&gt;
+
+&lt;p&gt;Listo.&lt;/p&gt;
 </description>
 				<published>2016-05-23 00:00:00 +0200</published>
 				<link>http://zagur.github.io/nunki-core/</link>
